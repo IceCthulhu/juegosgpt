@@ -1,3 +1,3 @@
 # juegosgpt
-pruebas con chat CGPT
-Este archivo fue desarrola en clase junto a una IA.
+pruebas con chat CGPT""
+Este archivo fue desarrollado en clase junto a una IA.
